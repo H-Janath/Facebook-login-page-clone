@@ -6,7 +6,17 @@ function App() {
 
   return (
     <>
-    <Login/>
+    <div className="continer ">
+      <div className="row">
+        <div className="col-lg-6">
+        
+        </div>
+        <div className="col-lg-6">
+        <Login/>
+        </div>
+      </div>
+    </div>
+    
     </>
   )
 }
