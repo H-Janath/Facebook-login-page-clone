@@ -1,6 +1,7 @@
 import { useState } from 'react'
 import './App.css'
 import Login from './login'
+import Side from './side'
 function App() {
   const [count, setCount] = useState(0)
 
@@ -8,8 +9,8 @@ function App() {
     <>
     <div className="continer ">
       <div className="row">
-        <div className="col-lg-6">
-        
+        <div className="col-lg-6 ">
+          <Side/>
         </div>
         <div className="col-lg-6">
         <Login/>

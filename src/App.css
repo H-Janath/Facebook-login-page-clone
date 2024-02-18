@@ -1,0 +1,5 @@
+.row {
+  height: 100vh; /* Set the row height to 100% of the viewport height */
+  display: flex;
+  align-items: center; /* Center children vertically */
+}
