@@ -17,7 +17,7 @@ function Login() {
                     </div>
                     <button className="btn btn-primary w-100 py-2  mt-3" type="submit">Login</button>
                     <div className="d-flex justify-content-center mt-3">
-                    <p><a href="#" class="link-primary">Forget password?</a></p>
+                    <p><a href="#" className="link-primary">Forget password?</a></p>
                     </div>
                     <hr />
                     <div className="d-flex justify-content-center">
