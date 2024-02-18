@@ -21,7 +21,7 @@ function Login() {
                     </div>
                     <hr />
                     <div className="d-flex justify-content-center">
-                    <button className="w-50 btn btn-success py-2" type="submit">Create new account</button>
+                    <button className="w-65 btn btn-success py-2" type="submit">Create new account</button>
                     </div>
                     
                 </form>

@@ -3,8 +3,10 @@ import './side.css'
 export default function Sider(){
     return(
         <>
+        <div className='mx-5'>
         <h1 className="text-primary">facebook</h1>
-        <p>connect with friends and the world around you on facebook</p>
+        <p className='fs-8'>Connect with friends and the world<br/> around you on Facebook</p>
+        </div>
         </>
     )
 }
